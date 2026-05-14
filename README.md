@@ -1,6 +1,5 @@
 # saucedemo
-
-Test Plan Document of SauceDemo 
+#Test Plan Document of SauceDemo 
 Overview
 This test plan describes how manual testing will be conducted for the Sauce Demo (Swag Labs) website.
 Sauce Labs provides Sauce Demo as a practice e-commerce application for UI and automation testing. The application includes login functionality, product listing (inventory), cart management, and a checkout process.
