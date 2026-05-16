@@ -1,0 +1,14 @@
+import  logging
+
+class Log_Maker:
+
+    @staticmethod
+    def log_gen():
+        logging.basicConfig(filename=".\\logs\\saucedemo.log", format= "%(asctime)s - %(levelname)s - %(message)s",
+            datefmt="%Y-%m-%d %H:%M:%S",
+             force= True,
+            level=logging.INFO)
+
+        logger = logging.getLogger()
+        logger.setLevel(logging.INFO)
+        return logger
