@@ -113,3 +113,65 @@
 2026-05-16 20:11:23 - INFO - test data is passed
 2026-05-16 20:11:29 - INFO - test data is passed
 2026-05-16 20:11:29 - INFO - Test data driven test is passed
+2026-05-16 20:56:37 - INFO - *************Test_Valid_login***********
+2026-05-16 20:56:38 - INFO - *************Logo_test_matched***********
+2026-05-16 20:56:41 - INFO - *************Test_invalid_login***********
+2026-05-16 20:56:42 - INFO - *************Username and password not matched ***********
+2026-05-16 20:56:52 - INFO - test data is passed
+2026-05-16 20:56:57 - INFO - test data is passed
+2026-05-16 20:57:08 - INFO - test data is passed
+2026-05-16 20:57:23 - INFO - Test Data Passed
+2026-05-16 20:57:23 - INFO - Test Data Passed
+2026-05-16 20:57:24 - INFO - Test Data Passed
+2026-05-16 20:57:24 - INFO - Test Data Passed
+2026-05-16 21:00:44 - INFO - *************Test_Valid_login***********
+2026-05-16 21:00:44 - INFO - *************Logo_test_matched***********
+2026-05-16 21:00:48 - INFO - *************Test_invalid_login***********
+2026-05-16 21:00:48 - INFO - *************Username and password not matched ***********
+2026-05-16 21:00:57 - INFO - test data is passed
+2026-05-16 21:01:03 - INFO - test data is passed
+2026-05-16 21:01:13 - INFO - test data is passed
+2026-05-16 21:01:19 - INFO - test data is passed
+2026-05-16 21:01:24 - INFO - test data is passed
+2026-05-16 21:01:25 - INFO - Test data driven test is passed
+2026-05-16 21:01:29 - INFO - Test Data Passed
+2026-05-16 21:01:29 - INFO - Test Data Passed
+2026-05-16 21:01:30 - INFO - Test Data Passed
+2026-05-16 21:01:30 - INFO - Test Data Passed
+2026-05-16 21:18:00 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:18:25 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:19:56 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:22:25 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:22:53 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:25:21 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:25:22 - INFO - ************* Checkout Test Passed *************
+2026-05-16 21:25:44 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:25:46 - INFO - ************* Checkout Test Passed *************
+2026-05-16 21:26:03 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:26:08 - INFO - *************Test_Valid_login***********
+2026-05-16 21:26:09 - INFO - *************Logo_test_matched***********
+2026-05-16 21:26:12 - INFO - *************Test_invalid_login***********
+2026-05-16 21:26:13 - INFO - *************Username and password not matched ***********
+2026-05-16 21:26:22 - INFO - test data is passed
+2026-05-16 21:26:27 - INFO - test data is passed
+2026-05-16 21:26:38 - INFO - test data is passed
+2026-05-16 21:26:43 - INFO - test data is passed
+2026-05-16 21:26:49 - INFO - test data is passed
+2026-05-16 21:26:49 - INFO - Test data driven test is passed
+2026-05-16 21:26:54 - INFO - Test Data Passed
+2026-05-16 21:26:54 - INFO - Test Data Passed
+2026-05-16 21:26:54 - INFO - Test Data Passed
+2026-05-16 21:26:55 - INFO - Test Data Passed
+2026-05-16 21:28:14 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:28:31 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:29:13 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:31:31 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:33:19 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:34:49 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:34:50 - INFO - ************* Checkout Test Passed *************
+2026-05-16 21:35:15 - INFO - *************Test_Valid_login***********
+2026-05-16 21:35:15 - INFO - *************Logo_test_matched***********
+2026-05-16 21:35:18 - INFO - *************Test_invalid_login***********
+2026-05-16 21:35:19 - INFO - *************Username and password not matched ***********
+2026-05-16 21:35:45 - INFO - ************* Checkout Test Started *************
+2026-05-16 21:35:46 - INFO - ************* Checkout Test Passed *************
