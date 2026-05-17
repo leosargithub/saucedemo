@@ -209,3 +209,11 @@
 2026-05-17 14:17:48 - INFO - test data is passed
 2026-05-17 14:17:54 - INFO - test data is passed
 2026-05-17 14:17:54 - INFO - Test data driven test is passed
+2026-05-17 15:44:27 - INFO - ************* Checkout Test Started *************
+2026-05-17 15:44:28 - INFO - ************* Checkout Test Passed *************
+2026-05-17 15:44:31 - INFO - *************Test_invalid_login***********
+2026-05-17 15:44:32 - INFO - *************Username and password not matched ***********
+2026-05-17 15:44:36 - INFO - Test Data Passed
+2026-05-17 15:44:36 - INFO - Test Data Passed
+2026-05-17 15:44:37 - INFO - Test Data Passed
+2026-05-17 15:44:37 - INFO - Test Data Passed
