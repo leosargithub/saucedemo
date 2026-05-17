@@ -35,7 +35,7 @@ class TestDataDrivenLogin:
     #     self.driver = driver
 
 
-
+    @pytest.mark.regression
     def test_valid_login_data_driven(self,setup):
         self.driver = setup
         self.driver.implicitly_wait(10)
@@ -82,7 +82,7 @@ class TestDataDrivenLogin:
         else:
             self.logger.info("Test data driven test is passed")
             assert True
-
+    @pytest.mark.sanity
     def test_invalid_login_data_driven(self, setup):
 
         self.driver = setup

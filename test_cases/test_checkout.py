@@ -15,7 +15,7 @@ class Test_Checkout:
     password = Read_Config.get_password()
 
     logger = Log_Maker.log_gen()
-
+    @pytest.mark.sanity
     def test_checkout_flow(self, setup):
 
         self.logger.info("************* Checkout Test Started *************")

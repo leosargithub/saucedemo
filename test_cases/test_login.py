@@ -18,6 +18,8 @@ class Test_01_Login:
     invalid_password = Read_Config.get_invalid_password()
     logger = Log_Maker.log_gen()
 
+
+    @pytest.mark.regression
     def test_valid_login(self,setup):
         self.logger.info("*************Test_Valid_login***********")
         self.driver = setup
@@ -38,7 +40,8 @@ class Test_01_Login:
             assert False
 
 
-
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_invalid_login(self,setup):
         self.logger.info("*************Test_invalid_login***********")
         self.driver = setup

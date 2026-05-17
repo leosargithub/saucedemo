@@ -175,3 +175,37 @@
 2026-05-16 21:35:19 - INFO - *************Username and password not matched ***********
 2026-05-16 21:35:45 - INFO - ************* Checkout Test Started *************
 2026-05-16 21:35:46 - INFO - ************* Checkout Test Passed *************
+2026-05-17 14:13:06 - INFO - ************* Checkout Test Started *************
+2026-05-17 14:13:07 - INFO - ************* Checkout Test Passed *************
+2026-05-17 14:13:11 - INFO - *************Test_invalid_login***********
+2026-05-17 14:13:11 - INFO - *************Username and password not matched ***********
+2026-05-17 14:13:16 - INFO - Test Data Passed
+2026-05-17 14:13:16 - INFO - Test Data Passed
+2026-05-17 14:13:16 - INFO - Test Data Passed
+2026-05-17 14:13:16 - INFO - Test Data Passed
+2026-05-17 14:14:49 - INFO - *************Test_Valid_login***********
+2026-05-17 14:14:50 - INFO - *************Logo_test_matched***********
+2026-05-17 14:14:52 - INFO - *************Test_invalid_login***********
+2026-05-17 14:14:53 - INFO - *************Username and password not matched ***********
+2026-05-17 14:15:02 - INFO - test data is passed
+2026-05-17 14:15:07 - INFO - test data is passed
+2026-05-17 14:15:18 - INFO - test data is passed
+2026-05-17 14:15:23 - INFO - test data is passed
+2026-05-17 14:15:42 - INFO - *************Test_Valid_login***********
+2026-05-17 14:15:42 - INFO - *************Logo_test_matched***********
+2026-05-17 14:15:45 - INFO - *************Test_invalid_login***********
+2026-05-17 14:15:46 - INFO - *************Username and password not matched ***********
+2026-05-17 14:15:55 - INFO - test data is passed
+2026-05-17 14:16:00 - INFO - test data is passed
+2026-05-17 14:16:11 - INFO - test data is passed
+2026-05-17 14:16:16 - INFO - test data is passed
+2026-05-17 14:17:14 - INFO - *************Test_Valid_login***********
+2026-05-17 14:17:15 - INFO - *************Logo_test_matched***********
+2026-05-17 14:17:17 - INFO - *************Test_invalid_login***********
+2026-05-17 14:17:18 - INFO - *************Username and password not matched ***********
+2026-05-17 14:17:27 - INFO - test data is passed
+2026-05-17 14:17:32 - INFO - test data is passed
+2026-05-17 14:17:43 - INFO - test data is passed
+2026-05-17 14:17:48 - INFO - test data is passed
+2026-05-17 14:17:54 - INFO - test data is passed
+2026-05-17 14:17:54 - INFO - Test data driven test is passed
